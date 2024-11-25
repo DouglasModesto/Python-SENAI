@@ -1,0 +1,5 @@
+print('oiii pessoal!')
+print('espero que você esteja muito bem✨')
+print('queria fazer uma pergunta bem diferente pra você hehe')
+print('será se você está preparado pra ouvir? ou responder?')
+print('qual o tipo de alimento que você se alimenta, leite de criança ou alimento sólido? ein')
